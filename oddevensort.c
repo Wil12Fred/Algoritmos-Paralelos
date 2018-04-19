@@ -188,7 +188,7 @@ int main(int argc, char const *argv[]) {
   return 0;
 }
 
-/*informe de tiempos con 8 procesos con 500 y 1000 elementos
+/*informe de tiempos con 8 procesos sobre 500 y 1000 elementos
    proceso  500 elementos     1000 elementos
        nro  Tiempo/segundos   Tiempo/segudos
         0            0.012            2.60

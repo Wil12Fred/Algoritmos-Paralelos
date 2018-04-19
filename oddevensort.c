@@ -187,3 +187,15 @@ int main(int argc, char const *argv[]) {
   MPI_Finalize( );
   return 0;
 }
+
+/*informe de tiempos con 8 procesos
+Proceso nro Tiempo/segundos
+        0            0.012
+        1            0.011
+        2            0.010
+        3            0.012
+        4            0.010
+        5            0.010
+        6            0.009
+        7            0.009
+*/
